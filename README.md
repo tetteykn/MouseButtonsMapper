@@ -30,7 +30,7 @@
 
 ## Trial Information
 Mouse Mapper offers a free trial** during which users can access all features of the app without limitations.  
-After the trial period, the app will no longer function unless a **one-time purchase of $5** is made to activate the app permanently.  
+After the trial period, the app will no longer function unless a **one-time purchase of $5.55** is made to activate the app permanently.  
 This ensures that users can fully experience the app's capabilities before deciding to purchase.
 
 ---
