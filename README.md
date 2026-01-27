@@ -13,8 +13,8 @@ Whether you're a gamer optimizing controls or a professional streamlining workfl
 - Create fully customized control schemes for games or applications.
 
 ### Per-Application or Global Mapping
-- Apply mappings globally across the system or restrict them to a specific application or game window.
-- Easily select target applications using an intuitive **Process Picker UI** that lists active windowed processes.
+- Apply mappings globally or restrict them to a specific application or game window.
+- Easily select target applications using an intuitive **Process Picker UI**.
 
 ### Customizable Hotkeys
 - Assign unique hotkeys for each mapping.
@@ -29,7 +29,7 @@ Whether you're a gamer optimizing controls or a professional streamlining workfl
 - Works seamlessly with full-screen and borderless windowed applications.
 
 ### User-Friendly Interface
-- Clean and intuitive design focused on ease of use.
+- Clean and intuitive design for easy navigation.
 - System tray integration for quick access.
 
 ---
@@ -39,19 +39,16 @@ Whether you're a gamer optimizing controls or a professional streamlining workfl
 - Mouse Mapper includes a **free trial** with full functionality.
 - After the trial period, a **one-time purchase of $5.55** unlocks permanent access.
 - **No subscriptions. No recurring fees.**
-
-### License Details
-- The activation key is **device-bound** and valid for **one device only**.
-- Activation can be completed **entirely offline**.
-- Once purchased, the app can be activated without requiring ongoing server access.
-- The license remains usable even if online services or activation servers are no longer available.
+- **Online recognition**: If the device is connected to the internet and has a valid previous purchase, Mouse Mapper will automatically activate — no serial key entry required.
+- **Offline or server unavailable**: Users can enter the serial key manually to activate the Software.
+- Lifetime access on the activated device.
 
 ---
 
 ## Important Notes
 
-- Due to the nature of offline, device-bound activation, **refunds are not available after license delivery**.
-- Software updates may be provided to improve functionality, but they are **optional** and not required to continue using the activated app.
+- Due to the nature of offline, device-bound activation, **refunds are not available** after license delivery.
+- Software updates may be provided but are **optional** and not required to continue using the activated app.
 
 ---
 
@@ -62,8 +59,6 @@ Mouse Mapper removes the limitations imposed by applications that lack advanced 
 ---
 
 ## Support & Contact
-
-For support or inquiries:
 
 - **Email**: [phonetettey@gmail.com](mailto:phonetettey@gmail.com)  
 - **Discord**: [Heaven](https://discord.com/invite/jRnaeTJ)  
