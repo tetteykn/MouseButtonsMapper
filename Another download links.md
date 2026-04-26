@@ -9,4 +9,4 @@
 [Download MouseButtonsMapperSetup-x64.msi](https://raw.githubusercontent.com/tetteykn/MouseButtonsMapper/refs/heads/main/x64/1.0.0/Zouaouid%20Tech.msi)
                                    
 ### Media fire
-[Download MouseButtonsMapperSetup-x64.msi](http://www.mediafire.com/file/slzlch9sz75ynks/Zouaouid_Tech.msi)
+[Download MouseButtonsMapperSetup-x64.msi](https://www.mediafire.com/file/khopccvgzaar9gl/Zouaouid+Tech.msi/file)
