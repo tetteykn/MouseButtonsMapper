@@ -25,6 +25,10 @@ Whether you're a gamer optimizing controls or a professional streamlining workfl
 - Save and load complete configuration profiles.
 - Instantly switch between different mappings without reconfiguration.
 
+### Select Input Method
+- Switch between different keyboard input methods for game compatibility.
+- Use alternative input injection techniques if keyboard input doesn't work in your game.
+
 ### Full-Screen & Borderless Support
 - Works seamlessly with full-screen and borderless windowed applications.
 
