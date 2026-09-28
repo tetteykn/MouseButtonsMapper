@@ -1,108 +1,239 @@
-# \# Mouse Mapper Software License Agreement
+# MouseButtonsMapper — Software License Agreement
 
-# 
+> **Copyright © 2026 Zouaouid Tech. All rights reserved.**
 
-# \## 1. License Grant
 
-# This software is licensed, not sold. This Software License Agreement (the "License") grants you, the purchaser, a limited, non-exclusive, non-transferable right to use the Mouse Mapper software (the "Software") subject to the terms and conditions outlined below.
+---
 
-# 
 
-# \## 2. Commercial Terms
+## Table of Contents
 
-# \- Each license is valid for ONE (1) computer/device only.
 
-# \- The activation code is permanently bound to the device on which it is first activated.
+1. [License Grant](#1-license-grant)
+2. [Commercial Terms](#2-commercial-terms)
+3. [License Transfer Policy](#3-license-transfer-policy)
+4. [Restrictions](#4-restrictions)
+5. [Version Compatibility and License Migration](#5-version-compatibility-and-license-migration)
+6. [Technical Support](#6-technical-support)
+7. [Activation, Offline Use, and License Recovery](#7-activation-offline-use-and-license-recovery)
+8. [Data Collection and Privacy](#8-data-collection-and-privacy)
+9. [Refund Policy](#9-refund-policy)
+10. [Warranty and Disclaimer](#10-warranty-and-disclaimer)
+11. [Ownership and Copyright](#11-ownership-and-copyright)
+12. [Termination](#12-termination)
 
-# \- The license is non-transferable between devices.
 
-# \- A separate license must be purchased for each additional device.
+---
 
-# \- Once activated, the license provides permanent access for the lifetime of the activated device.
 
-# \- Subsequent activations: If the device is connected to the internet and has a valid previous purchase, the Software will automatically recognize the device and activate itself without requiring the serial key.
+## 1. License Grant
 
-# \- Offline or server unavailable: If the device is offline or the activation server cannot be reached, users can manually enter their serial key to activate the Software.
 
-# 
+This software is licensed, not sold. This Software License Agreement (the **"License"**) grants you, the purchaser, the right to use Mouse Buttons Mapper software (the **"Software"**) subject to the following terms and conditions.
 
-# \## 3. Restrictions
 
-# You may NOT:
+---
 
-# \- Transfer, share, or reuse the activation code on another device.
 
-# \- Attempt to activate the same license on multiple devices.
+## 2. Commercial Terms
 
-# \- Reverse engineer, decompile, or disassemble the Software.
 
-# \- Modify, redistribute, sell, rent, lease, or sublicense the Software or any part of it.
+| Term                 | Detail                                                                                      |
+| -------------------- | ------------------------------------------------------------------------------------------- |
+| **Device Limit**     | Each license may be active on **ONE (1)** computer/device at a time                         |
+| **Binding**          | The activation code may be associated with a device for license verification purposes       |
+| **Transferability**  | The license is locked to the originally activated device and is **non-transferable**        |
+| **Multiple Devices** | Separate licenses are required for simultaneous use on multiple devices                     |
+| **Duration**         | Once activated, the license provides **permanent (lifetime)** access on the licensed device |
 
-# \- Create derivative works based on the Software.
 
-# 
+---
 
-# \## 4. Technical Support
 
-# \- Technical support is provided on a per-license basis.
+## 3. License Transfer Policy
 
-# \- Support is offered through the official Discord channel and email.
 
-# \- Email: phonetettey@gmail.com.
+The license is locked to the device on which it is first activated and is **non-transferable**.
 
-# 
 
-# \## 5. Data Collection and Privacy
+Because activation codes are device-bound and validate offline, an issued code cannot be revoked or disabled once delivered. A transfer could therefore never remove the original device's ability to use the Software, allowing a single license to cover two computers.
 
-# \- \*\*Collected Data\*\*: The Software may collect limited device-specific information strictly required for license activation and verification.
 
-# \- \*\*Offline Activation\*\*: Activation can be completed entirely offline. Continuous internet access is NOT required to use the Software.
+No transfer requests will be approved, and no replacement activation code will be issued for a different device.
 
-# \- \*\*Purpose of Collection\*\*: Any collected data is used solely to verify license legitimacy and prevent unauthorized use.
 
-# \- \*\*Data Storage\*\*: License-related data is stored locally on the user’s device and may be optionally verified during activation.
+---
 
-# \- \*\*Data Sharing\*\*: No collected data is shared with third parties under any circumstances.
 
-# \- \*\*Consent\*\*: By using the Software, you consent to this limited data usage.
+## 4. Restrictions
 
-# 
 
-# \## 6. Refund Policy
+You may **NOT**:
 
-# Due to the irreversible nature of device-bound and offline activation, no refunds will be issued once an activation code has been generated and delivered.
 
-# 
+* Use a single license simultaneously on multiple devices
+* Reverse engineer, decompile, or disassemble the Software
+* Redistribute, sell, rent, lease, or sublicense the Software
+* Modify or create derivative works of the Software
+* Circumvent, disable, or interfere with the Software's licensing mechanisms
 
-# \## 7. Warranty Disclaimer
 
-# The Software is provided "as is", without warranty of any kind, express or implied. The author does not warrant that the Software will meet your requirements, be error-free, or operate uninterrupted.
+---
 
-# 
 
-# \## 8. Software Updates
+## 5. Version Compatibility and License Migration
 
-# \- Updates may be provided to improve functionality or stability.
 
-# \- Installing updates is optional.
+### 5.1 Version-Specific Activation
 
-# \- An activated version of the Software will continue to function without requiring updates.
 
-# 
+Activation codes may be issued for a specific version or version range of the Software. The author does not guarantee that an activation code issued for one version will remain valid or functional in future versions. Purchasers are encouraged to keep a record of the version for which their activation code was issued.
 
-# \## 9. Ownership and Copyright
 
-# All rights, title, and interest in and to the Software remain the exclusive property of the Software author. The Software is protected by applicable copyright laws and international treaties.
+### 5.2 Retention of Prior Versions
 
-# 
 
-# \## 10. Termination
+As older versions of the Software may not remain publicly available after newer releases are published, purchasers are strongly encouraged to retain a local copy of the version for which their activation code was originally issued.
 
-# This License remains effective unless terminated due to a violation of its terms. Termination refers to the legal right to use the Software and does not imply technical deactivation of already activated installations.
 
-# 
+> [!TIP]
+> Keep a local backup of the installer and activation key for the version you activated. This helps ensure uninterrupted access if future versions introduce activation changes or compatibility differences.
 
-# Copyright © 2024. All rights reserved.
 
-# 
+### 5.3 License Migration
 
+
+If an activation code becomes incompatible with a newer version of the Software, the purchaser may request a **license migration** to obtain an updated activation code compatible with the newer version.
+
+
+Migration requests must be submitted through the support channels listed in Section 6. Migration is offered at the sole discretion of the Software author and may require verification of the original purchase.
+
+
+### 5.4 No Guarantee of Migration Availability
+
+
+While reasonable efforts will be made to accommodate migration requests, no guarantee is made that migration will be available for every version or circumstance.
+
+
+---
+
+
+## 6. Technical Support
+
+
+* Technical support is provided on a **per-license** basis.
+* Support is available through the specified **Discord** channel.
+* **Email:** [zouaouidtech@gmail.com](mailto:zouaouidtech@gmail.com)
+
+
+---
+
+
+## 7. Activation, Offline Use, and License Recovery
+
+
+### 7.1 Offline Usage
+
+
+Once the Software has been properly activated, it may be used without a continuous Internet connection.
+
+
+The Software does not require ongoing communication with the author's servers to continue functioning after activation.
+
+
+### 7.2 Offline Activation Capability
+
+
+Purchasers may activate and recover access to their Software using their issued activation key without permanent reliance on the author's servers.
+
+
+The activation key serves as the purchaser's proof of license ownership and should be retained in a safe location.
+
+
+### 7.3 Automatic Activation Convenience
+
+
+For user convenience, the Software may automatically verify and reactivate a valid license when launched on an authorized device, including after a Windows reinstallation, system reset, or similar event.
+
+
+This automatic process is provided as a convenience feature and is not intended to replace the purchaser's responsibility to retain their activation key.
+
+
+### 7.4 Retention of Activation Key
+
+
+Purchasers are strongly encouraged to securely store their activation key.
+
+
+While the author intends to maintain activation services, no guarantee is made that servers, online activation systems, or automated license recovery services will remain available indefinitely.
+
+
+Retaining a copy of the activation key helps ensure future access to the Software should online services become unavailable.
+
+
+---
+
+
+## 8. Data Collection and Privacy
+
+
+| Aspect             | Details                                                                                                 |
+| ------------------ | ------------------------------------------------------------------------------------------------------- |
+| **Collected Data** | Certain device-specific information required for activation and license verification                    |
+| **Purpose**        | Exclusively to verify license legitimacy, ensure proper activation, and prevent unauthorized use        |
+| **Storage**        | Stored locally on your device or securely transmitted to our servers as part of the activation process  |
+| **Data Sharing**   | Collected data will **NOT** be shared with any third parties under any circumstances                    |
+| **Your Rights**    | By using the Software, you consent to the collection and use of this data as outlined in this agreement |
+
+
+---
+
+
+## 9. Refund Policy
+
+
+> [!IMPORTANT]
+> **No refunds will be issued** once an activation code has been generated and provided to the purchaser.
+
+
+**Reason:** Activation codes are device-bound and remain valid for offline use without requiring communication with our servers. Once an activation code has been issued, the associated license cannot be remotely revoked or withdrawn.
+
+
+---
+
+
+## 10. Warranty and Disclaimer
+
+
+> [!WARNING]
+> The Software is provided **"as is"** without warranty of any kind, either express or implied. The author does not warrant that the Software will meet your requirements or that its operation will be uninterrupted or error-free.
+
+
+---
+
+
+## 11. Ownership and Copyright
+
+
+All title, ownership, and intellectual property rights in and to the Software remain with the Software author.
+
+
+The Software is protected by copyright laws and international copyright treaties.
+
+
+---
+
+
+## 12. Termination
+
+
+This License is effective until terminated.
+
+
+Your right to use the Software terminates automatically without notice if you fail to comply with any term of this License. Termination ends the license grant only; it does not imply any remote deactivation of the Software.
+
+
+---
+
+
+*MouseButtonsMapper Software License Agreement — Copyright © 2026 Zouaouid Tech. All rights reserved.*
