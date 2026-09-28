@@ -41,7 +41,7 @@ Whether you're a gamer optimizing controls or a professional streamlining workfl
 ## Trial & Licensing Information
 
 - Mouse Mapper includes a **free trial** with full functionality.
-- After the trial period, a **one-time purchase of $5.55** unlocks permanent access.
+- After the trial period, a **one-time purchase** unlocks permanent access.
 - **No subscriptions. No recurring fees.**
 - **Online recognition**: If the device is connected to the internet and has a valid previous purchase, Mouse Mapper will automatically activate — no serial key entry required.
 - **Offline or server unavailable**: Users can enter the serial key manually to activate the Software.
@@ -64,7 +64,6 @@ Mouse Mapper removes the limitations imposed by applications that lack advanced 
 
 ## Support & Contact
 
-- **Email**: [phonetettey@gmail.com](mailto:phonetettey@gmail.com)  
+- **Email**: [zouaouidtech@gmail.com](mailto:zouaouidtech@gmail.com)  
 - **Discord**: [Heaven](https://discord.com/invite/jRnaeTJ)  
-- **GitHub**: [Mouse Mapper Repository](https://github.com/tetteykn/MouseMapper)  
 - **YouTube**: [TetteyKn](https://www.youtube.com/channel/UCksGhlnuOhirbMzMG3yYJmg)
