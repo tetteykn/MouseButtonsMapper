@@ -38,17 +38,6 @@ Whether you're a gamer optimizing controls or a professional streamlining workfl
 
 ---
 
-## 💳 Pricing & Trial
-
-- Mouse Mapper includes a **free trial** with full functionality.
-- After the trial period, a **one-time purchase** unlocks permanent access.
-- **No subscriptions. No recurring fees.**
-- **Online recognition**: If the device is connected to the internet and has a valid previous purchase, Mouse Mapper will automatically activate — no serial key entry required.
-- **Offline or server unavailable**: Users can enter the serial key manually to activate the Software.
-- Lifetime access on the activated device.
-
----
-
 ## Important Notes
 
 - Due to the nature of offline, device-bound activation, **refunds are not available** after license delivery.
@@ -59,6 +48,17 @@ Whether you're a gamer optimizing controls or a professional streamlining workfl
 ## Why Choose Mouse Mapper?
 
 Mouse Mapper removes the limitations imposed by applications that lack advanced mouse input support. With a single, unified tool, you gain reliable, offline, and permanent control over your mouse buttons — without scripts, subscriptions, or intrusive tracking.
+
+---
+
+## 💳 Pricing & Trial
+
+- Mouse Mapper includes a **free trial** with full functionality.
+- After the trial period, a **one-time purchase** unlocks permanent access.
+- **No subscriptions. No recurring fees.**
+- **Online recognition**: If the device is connected to the internet and has a valid previous purchase, Mouse Mapper will automatically activate — no serial key entry required.
+- **Offline or server unavailable**: Users can enter the serial key manually to activate the Software.
+- Lifetime access on the activated device.
 
 ---
 
