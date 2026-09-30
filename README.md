@@ -65,5 +65,6 @@ Mouse Mapper removes the limitations imposed by applications that lack advanced 
 ## Support & Contact
 
 - **Email**: [zouaouidtech@gmail.com](mailto:zouaouidtech@gmail.com)  
+- **Store**: [Microsoft Store](https://apps.microsoft.com/store/detail/XPDFG2GT0FZBRV)  
 - **Discord**: [Heaven](https://discord.com/invite/jRnaeTJ)  
 - **YouTube**: [TetteyKn](https://www.youtube.com/channel/UCksGhlnuOhirbMzMG3yYJmg)
