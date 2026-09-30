@@ -38,7 +38,7 @@ Whether you're a gamer optimizing controls or a professional streamlining workfl
 
 ---
 
-## Trial & Licensing Information
+## 💳 Pricing & Trial
 
 - Mouse Mapper includes a **free trial** with full functionality.
 - After the trial period, a **one-time purchase** unlocks permanent access.
@@ -62,9 +62,12 @@ Mouse Mapper removes the limitations imposed by applications that lack advanced 
 
 ---
 
-## Support & Contact
+## 📞 Support & Contact
 
-- **Email**: [zouaouidtech@gmail.com](mailto:zouaouidtech@gmail.com)  
-- **Store**: [Microsoft Store](https://apps.microsoft.com/store/detail/XP99GV6PKQ8M58)  
-- **Discord**: [Heaven](https://discord.com/invite/jRnaeTJ)  
-- **YouTube**: [TetteyKn](https://www.youtube.com/channel/UCksGhlnuOhirbMzMG3yYJmg)
+**Email** — zouaouidtech@gmail.com
+
+[![Microsoft Store](https://img.shields.io/badge/Microsoft_Store-Get_it_Now-0078D4?logo=microsoft&logoColor=white)](https://apps.microsoft.com/store/detail/XP99GV6PKQ8M58)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Demo-red?logo=youtube)](https://www.youtube.com/channel/UCksGhlnuOhirbMzMG3yYJmg)
+
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord)](https://discord.com/invite/jRnaeTJ)
